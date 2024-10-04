@@ -4,7 +4,7 @@
 - **Igor Medeiros** - 555337
 - **Jorge Luiz** - 554418
 - **Arthur Bobadilla** - 555056
-- 
+  
 # Projeto de Monitoramento de Condições Ambientais para Vinícola
 
 Este projeto tem como objetivo monitorar as condições ambientais de uma vinícola, especificamente temperatura, umidade e luminosidade, utilizando sensores DHT11, LDR e um ESP32. Os dados são enviados via MQTT para serem acessados remotamente através do aplicativo MyMQTT.
